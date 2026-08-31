@@ -9,3 +9,5 @@ It's super basic (because it's my first project, after all 😄).
 Feel free to check out the source code if you'd like!
 
 Thanks for reading! ☺️
+
+Live preview :- https://shubhamsharmadev05.github.io/odin-recipes/
