@@ -1,0 +1,77 @@
+body{
+    background-image: url("./images/kitchen.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+
+.o,
+.din{
+    display: inline-block;
+     
+}
+.recipe{
+    display: block;
+    margin-left: 760px;
+    margin-top: 0px;
+    color: rgb(179, 118, 47);
+    font-size: 200px;
+    
+}
+.O{
+    font-size: 350px;
+    text-align: center;
+    margin-left: 480px;
+    color: bisque;
+    
+}
+.din{
+    font-size: 200px;
+    margin: 0 auto;
+    color: whitesmoke;
+}
+.list .shahipaneer{
+    display: inline-block;
+    width: 450px;
+    height: auto;
+    margin-left: 130px;
+    margin-right: 50px;
+    border: 10px solid bisque;
+    border-radius: 10px;
+
+}
+.list .meggi{
+    display: inline-block;
+    width: 450px;
+    height: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 10px solid bisque;
+    border-radius: 10px;
+
+    
+}
+.list .Omelet{
+    display: inline-block;
+    width: 450px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 10px solid bisque;
+    border-radius: 10px;
+
+}
+
+.list .Omelet:hover{
+    transform: scale(1.2);
+}
+.list .meggi:hover{
+    transform: scale(1.2);
+}
+.list .shahipaneer:hover{
+    transform: scale(1.2);
+
+}

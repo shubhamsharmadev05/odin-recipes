@@ -1,0 +1,29 @@
+body{
+    background-image: url("./images/img2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+h1{
+    color: rgb(175, 130, 6);
+    font-size: 250px;
+    padding-left: 550px;
+    font-weight: bold;
+    margin: auto;
+}
+
+p,
+ol,
+ul,
+h2{
+    color: rgb(0, 0, 0);
+    padding-left: 400px;
+    box-sizing: border-box;
+    font-size: 50px;
+}
+img{
+    float: left;
+    width: 370px;
+    height: 500px;
+}
